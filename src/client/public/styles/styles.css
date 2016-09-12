@@ -1,0 +1,29 @@
+body {
+	background: #000 url("https://i.ytimg.com/vi/voWpbz1De_M/maxresdefault.jpg") no-repeat fixed center;
+}
+
+.title-container {
+	width: 100%;
+	height: auto;
+	margin-top: 20%;
+}
+
+.title {
+	text-align: center;
+	color: yellow;
+}
+
+.character-selector {
+	width: 500px;
+	height: 250px;
+	margin-left: 500px;
+}
+
+.character-list {
+	margin-bottom: 20px;
+	color: yellow;
+}
+
+.selected {
+	color: yellow;
+}
